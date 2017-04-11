@@ -1,0 +1,279 @@
+  88888888888           ad88888ba   88888888888  
+  88                   d8"     "8b  88           
+  88                   Y8,          88           
+  88aaaaa  ,adPPYYba,  `Y8aaaaa,    88aaaaa      
+  88"""""  ""     `Y8    `"""""8b,  88"""""      
+  88       ,adPPPPP88          `8b  88           
+  88       88,    ,88  Y8a     a8P  88           
+  88       `"8bbdP"Y8   "Y88888P"   88888888888  
+
+	Version: 1.0
+FaSE - Fast Subgraph Enumeration (with Sampling)
+
+
+	Pedro {Paredes, Ribeiro} - DCC/FCUP
+
+
+
+
+the branch we are on is: 0 0 
+vext is: 1
+vext is: 2
+vext is: 3
+vext is: 5
+vext is: 6
+vext is: 8
+vext is: 11
+vext is: 13
+vext is: 14
+vext is: 15
+vext is: 16
+vext is: 17
+vext is: 18
+vext is: 19
+vext is: 20
+vext is: 23
+vext is: 24
+vext is: 25
+vext is: 26
+vext is: 27
+vext is: 32
+vext is: 33
+vext is: 42
+vext is: 50
+Regular Sampling loop
+new vsub: 50
+More Regular Sampling loop
+past the loop
+the branch we are on is: 0 50 0 
+vext is: 1
+vext is: 2
+vext is: 3
+vext is: 5
+vext is: 6
+vext is: 8
+vext is: 11
+vext is: 13
+vext is: 14
+vext is: 15
+vext is: 16
+vext is: 17
+vext is: 18
+vext is: 19
+vext is: 20
+vext is: 23
+vext is: 24
+vext is: 25
+vext is: 26
+vext is: 27
+vext is: 32
+vext is: 33
+vext is: 42
+Regular Sampling loop
+new vsub: 42
+More Regular Sampling loop
+past the loop
+the branch we are on is: 0 50 42 
+vext is: 1
+vext is: 2
+vext is: 3
+vext is: 5
+vext is: 6
+vext is: 8
+vext is: 11
+vext is: 13
+vext is: 14
+vext is: 15
+vext is: 16
+vext is: 17
+vext is: 18
+vext is: 19
+vext is: 20
+vext is: 23
+vext is: 24
+vext is: 25
+vext is: 26
+vext is: 27
+vext is: 32
+vext is: 33
+Regular Sampling loop
+new vsub: 33
+More Regular Sampling loop
+past the loop
+the branch we are on is: 0 50 33 
+vext is: 1
+vext is: 2
+vext is: 3
+vext is: 5
+vext is: 6
+vext is: 8
+vext is: 11
+vext is: 13
+vext is: 14
+vext is: 15
+vext is: 16
+vext is: 17
+vext is: 18
+vext is: 19
+vext is: 20
+vext is: 23
+vext is: 24
+vext is: 25
+vext is: 26
+vext is: 27
+vext is: 32
+Regular Sampling loop
+new vsub: 32
+More Regular Sampling loop
+past the loop
+the branch we are on is: 0 50 32 
+vext is: 1
+vext is: 2
+vext is: 3
+vext is: 5
+vext is: 6
+vext is: 8
+vext is: 11
+vext is: 13
+vext is: 14
+vext is: 15
+vext is: 16
+vext is: 17
+vext is: 18
+vext is: 19
+vext is: 20
+vext is: 23
+vext is: 24
+vext is: 25
+vext is: 26
+vext is: 27
+Regular Sampling loop
+new vsub: 27
+More Regular Sampling loop
+past the loop
+the branch we are on is: 0 50 27 
+vext is: 1
+vext is: 2
+vext is: 3
+vext is: 5
+vext is: 6
+vext is: 8
+vext is: 11
+vext is: 13
+vext is: 14
+vext is: 15
+vext is: 16
+vext is: 17
+vext is: 18
+vext is: 19
+vext is: 20
+vext is: 23
+vext is: 24
+vext is: 25
+vext is: 26
+Regular Sampling loop
+new vsub: 26
+More Regular Sampling loop
+past the loop
+the branch we are on is: 0 50 26 
+vext is: 1
+vext is: 2
+vext is: 3
+vext is: 5
+vext is: 6
+vext is: 8
+vext is: 11
+vext is: 13
+vext is: 14
+vext is: 15
+vext is: 16
+vext is: 17
+vext is: 18
+vext is: 19
+vext is: 20
+vext is: 23
+vext is: 24
+vext is: 25
+Regular Sampling loop
+new vsub: 25
+More Regular Sampling loop
+past the loop
+the branch we are on is: 0 50 25 
+vext is: 1
+vext is: 2
+vext is: 3
+vext is: 5
+vext is: 6
+vext is: 8
+vext is: 11
+vext is: 13
+vext is: 14
+vext is: 15
+vext is: 16
+vext is: 17
+vext is: 18
+vext is: 19
+vext is: 20
+vext is: 23
+vext is: 24
+Regular Sampling loop
+new vsub: 24
+More Regular Sampling loop
+past the loop
+the branch we are on is: 0 50 24 
+vext is: 1
+vext is: 2
+vext is: 3
+vext is: 5
+vext is: 6
+vext is: 8
+vext is: 11
+vext is: 13
+vext is: 14
+vext is: 15
+vext is: 16
+vext is: 17
+vext is: 18
+vext is: 19
+vext is: 20
+vext is: 23
+Regular Sampling loop
+new vsub: 23
+More Regular Sampling loop
+past the loop
+the branch we are on is: 0 50 23 
+vext is: 1
+vext is: 2
+vext is: 3
+vext is: 5
+vext is: 6
+vext is: 8
+vext is: 11
+vext is: 13
+vext is: 14
+vext is: 15
+vext is: 16
+vext is: 17
+vext is: 18
+vext is: 19
+vext is: 20
+Regular Sampling loop
+new vsub: 20
+More Regular Sampling loop
+past the loop
+the branch we are on is: 0 50 20 
+vext is: 1
+vext is: 2
+vext is: 3
+vext is: 5
+vext is: 6
+vext is: 8
+vext is: 11
+vext is: 13
+vext is: 14
+vext is: 15
+vext is: 16
+vext is: 17
+vext is: 18
+vext is: 19
+Regular Sampling l
