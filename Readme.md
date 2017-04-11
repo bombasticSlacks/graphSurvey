@@ -1,4 +1,4 @@
-# FaSE
+# Modification to the FaSE software NOT WORKING
 
     //                                                
     //  88888888888           ad88888ba   88888888888  
@@ -12,6 +12,8 @@
     //                                                 
 
 _Pedro {Paredes, Ribeiro} - DCC/FCUP_
+_Modified Version by Dillon Matchett for thesis
+IS NOT WORKING AT THIS MOMENT
 
 ## Version Information
 FaSE Version 1.0 - Launched 30 January 2016
