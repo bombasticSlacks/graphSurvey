@@ -11,6 +11,9 @@
 
 Pedro {Paredes, Ribeiro} - DCC/FCUP
 
+Modified version by Dillon Matchett
+NOT WORKING AT THE MOMENT
+
 ## Version Information
 FaSE Version 0.3 - Launched March 8 2014
 
